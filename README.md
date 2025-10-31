@@ -4,5 +4,5 @@
 Михайленко Денис
 
 
-Правила оформлення програмного коду у Rust згідно з офіційними Rust Style Guide та Rust API Guidelines
+Правила оформлення програмного коду у Rust згідно з Rust Style Guide та Rust API Guidelines
 
